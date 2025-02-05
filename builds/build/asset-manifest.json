@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b85685da.css",
+    "main.js": "/static/js/main.dfc0826a.js",
+    "static/media/presentationf.png": "/static/media/presentationf.c536f68c3fc6c1f64b68.png",
+    "static/media/logo.png": "/static/media/logo.a5a7212c677ce112bf45.png",
+    "static/media/Wingo Logo.png": "/static/media/Wingo Logo.40fce83aa9353088596c.png",
+    "static/media/Dragon & Tiger Logo.png": "/static/media/Dragon & Tiger Logo.bd0e6b2ebff5c21a932a.png",
+    "static/media/Lucky Spin Logo.png": "/static/media/Lucky Spin Logo.1027eaf2db239498f222.png",
+    "static/media/Lucky.png": "/static/media/Lucky.cb210f8c7e4bbbd7bd26.png",
+    "static/media/bg.png": "/static/media/bg.d2219c319e1453879152.png",
+    "static/media/Mines Logo.png": "/static/media/Mines Logo.5e2e84ece8d2694eb2b7.png",
+    "static/media/numbg.png": "/static/media/numbg.19a7bf9a602910950818.png",
+    "static/media/abouts3.png": "/static/media/abouts3.522feed7b7e5fc8bfd1d.png",
+    "static/media/abouts2.png": "/static/media/abouts2.9dca1610f42794b111b1.png",
+    "static/media/abouts1.png": "/static/media/abouts1.58c71f45fcbaced680d2.png",
+    "static/media/spins.png": "/static/media/spins.9d73f4f3635f437daea6.png",
+    "static/media/fruit_ninja_img.png": "/static/media/fruit_ninja_img.7cbc33ce027d4c78aad2.png",
+    "static/media/dragonTiger.png": "/static/media/dragonTiger.2e275f81668f34c65d63.png",
+    "static/media/mines_img.png": "/static/media/mines_img.5b11c4f0dee49ec20b9d.png",
+    "static/media/plinko_img.png": "/static/media/plinko_img.f9e616f1fefd4c743aa6.png",
+    "static/media/bingoimg.png": "/static/media/bingoimg.73e23d0cc5832cfecd6f.png",
+    "static/media/featuress1.png": "/static/media/featuress1.18855137fd741c5d96b1.png",
+    "static/media/miness.png": "/static/media/miness.de184e10a0a3876546a5.png",
+    "static/media/slice_master.png": "/static/media/slice_master.67ece85cfc244cb5b4a3.png",
+    "static/media/Lucky Spin.png": "/static/media/Lucky Spin.2968721165b73dcbade6.png",
+    "index.html": "/index.html",
+    "main.b85685da.css.map": "/static/css/main.b85685da.css.map",
+    "main.dfc0826a.js.map": "/static/js/main.dfc0826a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b85685da.css",
+    "static/js/main.dfc0826a.js"
+  ]
+}
